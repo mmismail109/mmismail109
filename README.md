@@ -1,6 +1,6 @@
 ### Hi there 👋 I am Mo 
 
-**mmismail109/mmismail109** is a ✨ _Site Reliability Engineer_
+_Site Reliability Engineer_
 
 Here are some ideas to get you started:
 
