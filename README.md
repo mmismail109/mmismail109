@@ -32,7 +32,7 @@ Here are some ideas to get you started:
 [<img align="left" alt="AWS" width="30px" src="https://raw.githubusercontent.com/mmismail109/mmismail109/master/images/aws.png" />][aws]
 [<img align="left" alt="Prometheus" width="30px" src="https://raw.githubusercontent.com/mmismail109/mmismail109/master/images/605px-Prometheus_software_logo.svg.png" />][Prometheus]
 [<img align="left" alt="grafana" width="30px" src="https://raw.githubusercontent.com/mmismail109/mmismail109/master/images/grafana-logo.png" />][grafana]
-[<img align="left" alt="jenkins" height="25px" width="30px" src="https://raw.githubusercontent.com/mmismail109/mmismail109/master/images/jenkins.png" />][jenkins]
+[<img align="left" alt="jenkins" height="25px" width="26px" src="https://raw.githubusercontent.com/mmismail109/mmismail109/master/images/jenkins.png" />][jenkins]
 
 <br />
 
