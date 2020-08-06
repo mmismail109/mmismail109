@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 
 [<img align="left" alt="kubernetes" width="26px" src="https://raw.githubusercontent.com/mmismail109/mmismail109/master/images/k8s.png" />][k8s]
 [<img align="left" alt="Go" width="26px" src="https://raw.githubusercontent.com/mmismail109/mmismail109/master/images/golang_74.png" />][go]
-[<img align="left" alt="Istio" style="height: 28px !important;" width="26px" src="https://raw.githubusercontent.com/mmismail109/mmismail109/master/images/istio.svg" />][istio]
+[<img align="left" alt="Istio" height="28px" width="26px" src="https://raw.githubusercontent.com/mmismail109/mmismail109/master/images/istio.svg" />][istio]
 [<img align="left" alt="Elasticsearch" width="26px" src="https://raw.githubusercontent.com/mmismail109/mmismail109/master/images/icons8-elasticsearch-240.png" />][es]
 [<img align="left" alt="Postgres" width="26px" src="https://raw.githubusercontent.com/mmismail109/mmismail109/master/images/icons8-postgresql-240.png" />][rds]
 [<img align="left" alt="EKS" width="26px" src="https://raw.githubusercontent.com/mmismail109/mmismail109/master/images/Amazon-Elastic-Kubernetes-Service_dark-bg@4x.png" />][eks]
