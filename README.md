@@ -22,3 +22,7 @@ Here are some ideas to get you started:
 
 [twitter]: https://twitter.com/mmismail109
 [linkedin]: https://linkedin.com/in/moismail109
+
+---
+
+<img align="left" alt="codeSTACKr's Github Stats" src="https://github-readme-stats.vercel.app/api?username=mmismail109&show_icons=true&hide_border=true" />
