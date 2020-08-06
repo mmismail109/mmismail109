@@ -29,7 +29,7 @@ Here are some ideas to get you started:
 [<img align="left" alt="Elasticsearch" width="26px" src="https://raw.githubusercontent.com/mmismail109/mmismail109/master/images/icons8-elasticsearch-240.png" />][es]
 [<img align="left" alt="Postgres" width="26px" src="https://raw.githubusercontent.com/mmismail109/mmismail109/master/images/icons8-postgresql-240.png" />][rds]
 [<img align="left" alt="EKS" width="26px" src="https://raw.githubusercontent.com/mmismail109/mmismail109/master/images/Amazon-Elastic-Kubernetes-Service_dark-bg@4x.png" />][eks]
-[<img align="left" alt="AWS" width="26px" src="https://raw.githubusercontent.com/mmismail109/mmismail109/master/images/Amazon-Elastic-Kubernetes-Service_dark-bg@4x.png" />][aws]
+[<img align="left" alt="AWS" width="26px" src="https://raw.githubusercontent.com/mmismail109/mmismail109/master/images/aws.png" />][aws]
 [<img align="left" alt="Prometheus" width="26px" src="https://raw.githubusercontent.com/mmismail109/mmismail109/master/images/605px-Prometheus_software_logo.svg.png" />][Prometheus]
 [<img align="left" alt="grafana" width="26px" src="https://raw.githubusercontent.com/mmismail109/mmismail109/master/images/grafana-logo.png" />][grafana]
 
