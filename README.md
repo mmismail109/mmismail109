@@ -23,7 +23,12 @@ Here are some ideas to get you started:
 
 ### Languages and Tools:
 
-[<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/mmismail109/mmismail109/master/images/k8s.png" />][kubernetes]
+[<img align="left" alt="kubernetes" width="26px" src="https://raw.githubusercontent.com/mmismail109/mmismail109/master/images/k8s.png" />][kubernetes]
+[<img align="left" alt="Go" width="26px" src="https://raw.githubusercontent.com/mmismail109/mmismail109/master/images/golang_56.png" />][Go]
+[<img align="left" alt="Istio" width="26px" src="https://raw.githubusercontent.com/mmismail109/mmismail109/master/images/istio.svg" />][istio]
+[<img align="left" alt="Elasticsearch" width="26px" src="https://raw.githubusercontent.com/mmismail109/mmismail109/master/images/icons8-elasticsearch-240.png" />][ES]
+[<img align="left" alt="Postgres" width="26px" src="https://raw.githubusercontent.com/mmismail109/mmismail109/master/images/Amazon-RDS_dark-bg@4x.png" />][Postgres]
+[<img align="left" alt="EKS" width="26px" src="https://raw.githubusercontent.com/mmismail109/mmismail109/master/images/Amazon-Elastic-Kubernetes-Service_dark-bg@4x.png" />][EKS]
 
 <br />
 
@@ -35,3 +40,7 @@ Here are some ideas to get you started:
 [twitter]: https://twitter.com/mmismail109
 [linkedin]: https://linkedin.com/in/moismail109
 [kubernetes]: https://kubernetes.io
+[Go]: #
+[ES]: #
+[EKS]: #
+[Postgres]: #
