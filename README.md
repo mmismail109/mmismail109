@@ -32,6 +32,7 @@ Here are some ideas to get you started:
 [<img align="left" alt="AWS" width="26px" src="https://raw.githubusercontent.com/mmismail109/mmismail109/master/images/aws.png" />][aws]
 [<img align="left" alt="Prometheus" width="26px" src="https://raw.githubusercontent.com/mmismail109/mmismail109/master/images/605px-Prometheus_software_logo.svg.png" />][Prometheus]
 [<img align="left" alt="grafana" width="26px" src="https://raw.githubusercontent.com/mmismail109/mmismail109/master/images/grafana-logo.png" />][grafana]
+[<img align="left" alt="jenkins" width="26px" src="https://raw.githubusercontent.com/mmismail109/mmismail109/master/images/jenkins.png" />][jenkins]
 
 <br />
 
@@ -51,4 +52,5 @@ Here are some ideas to get you started:
 [grafana]: #
 [Prometheus]: #
 [aws]: #
+[jenkins]: #
 
