@@ -19,9 +19,19 @@ Here are some ideas to get you started:
 
 <br />
 
+ 
 
-[twitter]: https://twitter.com/mmismail109
-[linkedin]: https://linkedin.com/in/moismail109
+### Languages and Tools:
+
+[<img align="left" alt="kubernetes" width="26px" src="https://raw.githubusercontent.com/mmismail109/mmismail109/master/images/k8s.png" />][k8s]
+[<img align="left" alt="Go" width="26px" src="https://raw.githubusercontent.com/mmismail109/mmismail109/master/images/golang_56.png" />][go]
+[<img align="left" alt="Istio" width="26px" src="https://raw.githubusercontent.com/mmismail109/mmismail109/master/images/istio.svg" />][istio]
+[<img align="left" alt="Elasticsearch" width="26px" src="https://raw.githubusercontent.com/mmismail109/mmismail109/master/images/icons8-elasticsearch-240.png" />][es]
+[<img align="left" alt="Postgres" width="26px" src="https://raw.githubusercontent.com/mmismail109/mmismail109/master/images/Amazon-RDS_dark-bg@4x.png" />][rds]
+[<img align="left" alt="EKS" width="26px" src="https://raw.githubusercontent.com/mmismail109/mmismail109/master/images/Amazon-Elastic-Kubernetes-Service_dark-bg@4x.png" />][eks]
+
+<br />
+
 
 
 
@@ -31,3 +41,14 @@ Here are some ideas to get you started:
 
 <img align="left" alt="codeSTACKr's Github Stats" src="https://github-readme-stats.vercel.app/api?username=mmismail109&show_icons=true&hide_border=true" />
 
+<<<<<<< HEAD
+=======
+[twitter]: https://twitter.com/mmismail109
+[linkedin]: https://linkedin.com/in/moismail109
+[go]: #
+[k8s]: #
+[istio]: #
+[es]: #
+[eks]: #
+[rds]: #
+>>>>>>> 0520b69607ee46a8e9168acc6974b4c8f08bc4da
