@@ -8,7 +8,7 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning serverless
 - 👯 I’m looking to collaborate on service mesh
 - 😄 Pronouns: Mo
-- ⚡ Fun fact: I have a Rhotacism 😄 which is the inability to pronounce or difficulty in pronouncing r sounds.
+- ⚡ Fun fact: I have a Rhotacism 😄 which is the inability to pronounce or difficulty in pronouncing "R" sounds.
 
 <br />
 
