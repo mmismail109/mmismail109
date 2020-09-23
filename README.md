@@ -19,14 +19,13 @@ Here are some ideas to get you started:
 
  
 
-### Languages and Tools:
+### Some Languages and Tools:
 
 [<img align="left" alt="kubernetes" width="30px" src="https://raw.githubusercontent.com/mmismail109/mmismail109/master/images/k8s.png" />][k8s]
 [<img align="left" alt="Go" width="30px" src="https://raw.githubusercontent.com/mmismail109/mmismail109/master/images/golang_74.png" />][go]
 [<img align="left" alt="Istio" height="28px" width="30px" src="https://raw.githubusercontent.com/mmismail109/mmismail109/master/images/istio.svg" />][istio]
 [<img align="left" alt="Elasticsearch" width="30px" src="https://raw.githubusercontent.com/mmismail109/mmismail109/master/images/icons8-elasticsearch-240.png" />][es]
 [<img align="left" alt="Postgres" width="30px" src="https://raw.githubusercontent.com/mmismail109/mmismail109/master/images/icons8-postgresql-240.png" />][rds]
-[<img align="left" alt="EKS" width="30px" src="https://raw.githubusercontent.com/mmismail109/mmismail109/master/images/Amazon-Elastic-Kubernetes-Service_dark-bg@4x.png" />][eks]
 [<img align="left" alt="AWS" width="30px" src="https://raw.githubusercontent.com/mmismail109/mmismail109/master/images/aws.png" />][aws]
 [<img align="left" alt="Prometheus" width="30px" src="https://raw.githubusercontent.com/mmismail109/mmismail109/master/images/605px-Prometheus_software_logo.svg.png" />][Prometheus]
 [<img align="left" alt="grafana" width="30px" src="https://raw.githubusercontent.com/mmismail109/mmismail109/master/images/grafana-logo.png" />][grafana]
